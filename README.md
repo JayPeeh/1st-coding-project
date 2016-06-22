@@ -78,7 +78,7 @@
       <li>The Heat finished the season with a 37-45 win/loss record, as Wade missed the post-season for just the second time in his career.</li>
       <li>On June 29, 2015, Wade opted out of his contract with the Heat to become a free agent. On July 10, 2015, he re-signed with the Heat once again to a one-year, $20 million contract.</li>
 
-      <!--Last list points are my own words as i followed the Heat during their playoff run this season...I may be slightly biased however..HAHAHAHAHA!!!!! -->
+      <!--Last list points are my own words as i followed the Heat during their playoff run this season...I may be slightly biased however..HAHAHAHAHA!!!!!-->
       <li>Wade along with young and promising center Hassan Whiteside were able to lead the Heat to the 2016 Playoffs despite losing All-Star forward Chris Bosh due to health issues.</li>
       <li>Despite losing Whiteside due to injury in the second-round series against the Toronto Raptors, Wade and the Heat were still able to take the younger, more athletic Toronto team to 7 games.</li>
       <li>The Heat lost game 7 to the Raptors with Wade ending the game with 16 points (6-of-13 shooting), 4 rebounds and 3 assists in 35 minutes.</li>
